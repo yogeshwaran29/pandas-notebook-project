@@ -19,4 +19,4 @@ This project demonstrates basic CSV data analysis using Python and Pandas in Jup
 2. Run this command to open jupyter notebook
    jupyter notebook
 3. Open pandas_csv_analysis.ipynb
-4. 
+
